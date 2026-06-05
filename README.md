@@ -1,4 +1,5 @@
 # 🌳 Swiggy Asset Prediction Using Decision Trees
+Predictive Analytics • Machine Learning • Financial Statement Analysis
 
 ## Project Information
 
@@ -12,6 +13,18 @@
 | Target Variable | Total Assets (TAD) |
 | Status | Completed |
 
+## Quick Navigation
+
+- Executive Summary
+- Business Context
+- Objectives
+- Dataset
+- Methodology
+- Results
+- Business Relevance
+- Conclusion
+
+  
 ## Executive Summary
 
 This project explores how machine learning can be applied to financial statement data.
@@ -158,4 +171,19 @@ Potential extensions of this project include:
 - Multi-Company Financial Analysis
 - Interactive Machine Learning Dashboards
 
+## Analyst Insight
+
+This project demonstrates an important analytics lesson:
+
+Machine learning models are only as strong as the data provided.
+
+Although the model did not achieve strong predictive performance, the exercise highlighted how dataset size directly affects model reliability and generalization.
+
+Understanding model limitations is as important as building the model itself.
+
+## About the Analyst
+
+Mridul Krishna Parauha
+
+BBA (Digital Marketing & AI)
 
