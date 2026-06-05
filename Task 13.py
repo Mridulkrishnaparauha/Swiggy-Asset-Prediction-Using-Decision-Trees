@@ -1,6 +1,5 @@
-#Task 13: Machine Learning using Company Balance Sheet
+#Machine Learning using Company Balance Sheet
 #Mridul Krishna Parauha
-#12514474
 
 import pandas as pd
 
